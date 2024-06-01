@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<h1 align="center">Hi 👋, I'm Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm Saeed Niyabati</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20developer;Mid-level%20AI%20developer;Honest%20Blockchain%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
