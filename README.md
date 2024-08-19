@@ -4,7 +4,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20developer%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeid1994&label=Profile%20views&color=0e75b6&style=flat" alt="saeid1994" /> </p>
