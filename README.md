@@ -37,13 +37,13 @@
 
 <p align="center">
     <a href="https://leetcode.com/saeedsnaid/"><img width="48%" src="https://leetcode.card.workers.dev/saeedsnaid?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/saeedsnaid"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedsnaid&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saeid1994&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickdev0118&show_icons=true&locale=en&layout=compact" alt="nickdev0118" /></p>-->
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saeid1994&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
+ 
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saeid1994&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
