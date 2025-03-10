@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saeed Niyabati</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
