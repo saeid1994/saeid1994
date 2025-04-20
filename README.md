@@ -35,10 +35,11 @@
 
 <h3 align="left">Support:</h3>
 
-<p align="center">
+<div align="center">
      ![Codewars](https://github.r2v.ch/codewars?user=saeedniyabati1)
+  
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saeid1994&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
- </p>
+ </div>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickdev0118&show_icons=true&locale=en&layout=compact" alt="nickdev0118" /></p>-->
 
