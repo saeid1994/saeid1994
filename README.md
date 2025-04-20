@@ -35,7 +35,11 @@
 
 <h3 align="left">Support:</h3>
 
-![Codewars](https://github.r2v.ch/codewars?user=saeedniyabati1)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=saeedniyabati1" />
+    </a>
+</p>
   
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickdev0118&show_icons=true&locale=en&layout=compact" alt="nickdev0118" /></p>-->
